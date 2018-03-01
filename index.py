@@ -1,5 +1,5 @@
 """
-get items from sustc download page
+get items from sustc mentor page
 """
 from bs4 import BeautifulSoup
 import requests
